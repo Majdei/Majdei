@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Abdulhamid Ali</h1>
-<h3 align="center">Full Stack Web Developer | Data Analytics Enthusiast | Lifelong Learner</h3>
+
+<h3 align="center">
+💻 Full Stack Web Developer | Web Designer | Data Analytics Learner
+</h3>
 
 <p align="center">
-Passionate about building modern web applications, solving real-world problems, and continuously learning new technologies.
+I enjoy building modern, responsive, and user-friendly websites that solve real-world problems. I am constantly learning new technologies and improving my development skills.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Passionate Full Stack Web Developer
-- 🌱 Currently learning Node.js, React, Express, MongoDB, SQL, and Data Analytics
-- 📊 Interested in Data Analysis with Excel, SQL, and Power BI
-- 🎯 Goal: Build professional software that makes people's lives easier
-- 📚 Always learning new technologies and improving my skills
+- 💻 Full Stack Web Developer
+- 🌱 Currently learning Node.js, Express.js, MongoDB, SQL & Power BI
+- 🎨 Passionate about UI/UX Design
+- 📊 Interested in Data Analytics
+- 🚀 Always building and learning something new
 
 ---
 
@@ -40,40 +43,46 @@ Passionate about building modern web applications, solving real-world problems, 
 - GitHub
 - VS Code
 - Postman
+- Figma
 
 ---
 
-## 📈 GitHub Stats
+## 🌟 Featured Project
+
+### 🎓 Majd Training Center Website
+
+A modern and responsive website for a professional training center.
+
+🌐 **Live Demo:** https://majdcenter.netlify.app/
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 </p>
 
 ---
 
-## 🌟 Current Projects
+## 📫 Contact Me
 
-- 🎓 Training Center Management System
-- 🏫 School Management System
-- 🌐 Modern Business Websites
-- 📊 Data Analytics Dashboards
+📞 Phone: **0546496216**
 
----
-
-## 📫 Connect With Me
-
-- 📧 Email: abdulhamidnabet@email.com
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
-- 🌐 Portfolio: Coming Soon...
+🌐 Website: https://majdcenter.netlify.app/
 
 ---
 
-<h3 align="center">
-✨ "Code. Learn. Build. Repeat." ✨
-</h3>
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
+
+<p align="center">
+<i>"Code with passion. Learn every day. Build for the future."</i>
+</p>
