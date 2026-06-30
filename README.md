@@ -49,11 +49,11 @@ I enjoy building modern, responsive, and user-friendly websites that solve real-
 
 ## 🌟 Featured Project
 
-### 🎓 Majd Training Center Website
+### 🎓 online Training Center Website
 
 A modern and responsive website for a professional training center.
 
-🌐 **Live Demo:** https://majdcenter.netlify.app/
+🌐 **Live Demo:** https://zoolonline.com
 
 ---
 
