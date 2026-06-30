@@ -75,7 +75,7 @@ A modern and responsive website for a professional training center.
 
 📞 Phone: **0546496216**
 
-🌐 Website: https://majdcenter.netlify.app/
+🌐 Website: https://zoolonline.com
 
 ---
 
